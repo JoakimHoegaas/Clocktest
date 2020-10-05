@@ -1,0 +1,12 @@
+C:\Users\GET Academy\source\repos\Clocktest\Clocktest\bin\Debug\netcoreapp3.1\Clocktest.exe
+C:\Users\GET Academy\source\repos\Clocktest\Clocktest\bin\Debug\netcoreapp3.1\Clocktest.deps.json
+C:\Users\GET Academy\source\repos\Clocktest\Clocktest\bin\Debug\netcoreapp3.1\Clocktest.runtimeconfig.json
+C:\Users\GET Academy\source\repos\Clocktest\Clocktest\bin\Debug\netcoreapp3.1\Clocktest.runtimeconfig.dev.json
+C:\Users\GET Academy\source\repos\Clocktest\Clocktest\bin\Debug\netcoreapp3.1\Clocktest.dll
+C:\Users\GET Academy\source\repos\Clocktest\Clocktest\bin\Debug\netcoreapp3.1\Clocktest.pdb
+C:\Users\GET Academy\source\repos\Clocktest\Clocktest\obj\Debug\netcoreapp3.1\Clocktest.AssemblyInfoInputs.cache
+C:\Users\GET Academy\source\repos\Clocktest\Clocktest\obj\Debug\netcoreapp3.1\Clocktest.AssemblyInfo.cs
+C:\Users\GET Academy\source\repos\Clocktest\Clocktest\obj\Debug\netcoreapp3.1\Clocktest.csproj.CoreCompileInputs.cache
+C:\Users\GET Academy\source\repos\Clocktest\Clocktest\obj\Debug\netcoreapp3.1\Clocktest.dll
+C:\Users\GET Academy\source\repos\Clocktest\Clocktest\obj\Debug\netcoreapp3.1\Clocktest.pdb
+C:\Users\GET Academy\source\repos\Clocktest\Clocktest\obj\Debug\netcoreapp3.1\Clocktest.genruntimeconfig.cache
